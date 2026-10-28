@@ -1,0 +1,7 @@
+LOCAL PREVIEW
+
+Double-click "Run ClipRise locally.bat". It starts a local web server and opens the site in your browser. The launcher chooses a free port between 8000 and 8099, so page links to folders (for example /brands/) load that folder's index.html instead of a file listing.
+
+Keep the Python server window open while using the site. Close that window to stop the preview. This is a local preview only; it does not publish the site.
+
+Python 3 must be installed and available as "python" or "py" in Windows.

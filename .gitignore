@@ -1,0 +1,11 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+
+# Local tool state
+.vscode/
+.idea/
+node_modules/
